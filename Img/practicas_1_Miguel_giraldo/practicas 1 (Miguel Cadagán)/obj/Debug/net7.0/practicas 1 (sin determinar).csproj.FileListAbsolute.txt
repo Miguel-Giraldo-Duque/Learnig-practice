@@ -1,0 +1,15 @@
+H:\programación\c#\practicas 1 (sin determinar)\bin\Debug\net7.0\practicas 1 (sin determinar).exe
+H:\programación\c#\practicas 1 (sin determinar)\bin\Debug\net7.0\practicas 1 (sin determinar).deps.json
+H:\programación\c#\practicas 1 (sin determinar)\bin\Debug\net7.0\practicas 1 (sin determinar).runtimeconfig.json
+H:\programación\c#\practicas 1 (sin determinar)\bin\Debug\net7.0\practicas 1 (sin determinar).dll
+H:\programación\c#\practicas 1 (sin determinar)\bin\Debug\net7.0\practicas 1 (sin determinar).pdb
+H:\programación\c#\practicas 1 (sin determinar)\obj\Debug\net7.0\practicas 1 (sin determinar).csproj.AssemblyReference.cache
+H:\programación\c#\practicas 1 (sin determinar)\obj\Debug\net7.0\practicas 1 (sin determinar).GeneratedMSBuildEditorConfig.editorconfig
+H:\programación\c#\practicas 1 (sin determinar)\obj\Debug\net7.0\practicas 1 (sin determinar).AssemblyInfoInputs.cache
+H:\programación\c#\practicas 1 (sin determinar)\obj\Debug\net7.0\practicas 1 (sin determinar).AssemblyInfo.cs
+H:\programación\c#\practicas 1 (sin determinar)\obj\Debug\net7.0\practicas 1 (sin determinar).csproj.CoreCompileInputs.cache
+H:\programación\c#\practicas 1 (sin determinar)\obj\Debug\net7.0\practicas 1 (sin determinar).dll
+H:\programación\c#\practicas 1 (sin determinar)\obj\Debug\net7.0\refint\practicas 1 (sin determinar).dll
+H:\programación\c#\practicas 1 (sin determinar)\obj\Debug\net7.0\practicas 1 (sin determinar).pdb
+H:\programación\c#\practicas 1 (sin determinar)\obj\Debug\net7.0\practicas 1 (sin determinar).genruntimeconfig.cache
+H:\programación\c#\practicas 1 (sin determinar)\obj\Debug\net7.0\ref\practicas 1 (sin determinar).dll
